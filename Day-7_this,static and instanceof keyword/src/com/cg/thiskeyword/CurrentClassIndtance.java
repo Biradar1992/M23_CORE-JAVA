@@ -1,3 +1,8 @@
+package com.cg.thiskeyword;
+
+public class CurrentClassIndtance {
+
+}
 
 package com.cg.thiskeyword;
 class main

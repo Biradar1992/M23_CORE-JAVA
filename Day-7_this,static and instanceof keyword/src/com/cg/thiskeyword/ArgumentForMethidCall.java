@@ -1,4 +1,7 @@
 package com.cg.thiskeyword;
+
+import thiskeyword.B;
+
 class B
 {
 	public void accept(B b)

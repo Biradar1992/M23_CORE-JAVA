@@ -1,5 +1,7 @@
 package com.cg.thisdemo;
 
+import thisdemo.Base1;
+
 public class Derived extends Base1
 {
 	Derived()
