@@ -1,4 +1,4 @@
-package com.cg.scannBuff;
+package com.cg.scannbuff;
 
 import java.util.Scanner;
 //Example on Scanner class

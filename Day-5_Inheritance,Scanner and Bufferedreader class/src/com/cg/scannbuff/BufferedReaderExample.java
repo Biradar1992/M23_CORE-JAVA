@@ -1,4 +1,4 @@
-package scanBuff;
+package com.cg.scannbuff;
 //Example on BufferedReader class
 import java.io.BufferedReader;
 import java.io.IOException;

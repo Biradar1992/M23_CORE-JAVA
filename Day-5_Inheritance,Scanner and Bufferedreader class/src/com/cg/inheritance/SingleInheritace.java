@@ -1,4 +1,8 @@
 package com.cg.inheritance;
+
+import Inheritance.Child;
+import Inheritance.Parent;
+
 //Program on Single Inheritance
 class Parent
 {
